@@ -9,8 +9,8 @@ cd task_tracker_fastapi
 ```
 create .env file 
 ```
-DATABASE_URL={database url}
-SECRET_KEY = {secret key}
+DATABASE_URL={database_url}
+SECRET_KEY = {secret_key}
 ALGORITHM = HS256
 ACCESS_TOKEN_EXPIRE_MINUTES = {desire minutes}`
 ```
