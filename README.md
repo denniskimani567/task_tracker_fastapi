@@ -1,5 +1,6 @@
-# Task Tracker (Fastapi)
+# FastAPI Task Tracker, using OAuth2 with Password, Password Hashing and JWT Token 
 Link to project (https://morning-gorge-07253.herokuapp.com/docs)
+
 Minimalistic Task Tracker Web API built with FastAPI. 
 
 # Getting started:
